@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sdformacao.vercel.app/sitemap.xml
+Sitemap: https://teca09.github.io/sdformacao/sitemap.xml
