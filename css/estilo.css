@@ -143,6 +143,12 @@ header {
   border-radius: 6px;
   font-style: italic;
 }
+header .logo img {
+  display: block;
+  width: 130px;
+  height: auto;
+  object-fit: contain;
+}
 .nav ul {
   display: flex;
   gap: 28px;
